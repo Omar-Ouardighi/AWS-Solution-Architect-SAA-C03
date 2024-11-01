@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "92393da1d1eea40e",
+        "id": "c63aebfb37e90a07",
         "type": "tabs",
         "children": [
           {
-            "id": "b3c68819fbe41e72",
+            "id": "41e35604da91c171",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44b0795b0b3c9081",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IAM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23c744d4c4633603",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "S3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6f19d0c9b7b7964",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Global Infrastructure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff26de0455fd43b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "S3.md",
+                "file": "EC2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IAM.md",
+                "file": "EC2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IAM.md",
+                "file": "EC2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IAM.md"
+                "file": "EC2.md"
               }
             }
           }
@@ -195,12 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44b0795b0b3c9081",
+  "active": "41e35604da91c171",
   "lastOpenFiles": [
+    "Security Groups.md",
+    "EC2.md",
+    "AWS Global Infrastructure.md",
     "S3.md",
+    "AWS Certified Solutions Architect Slides v39.pdf",
     "IAM.md",
     "Exam Guide.md",
-    "AWS Global Infrastructure.md",
     "README.md"
   ]
 }

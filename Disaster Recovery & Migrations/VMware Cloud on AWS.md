@@ -1,0 +1,7 @@
+-  Some customers use VMware Cloud to manage their on-premises Data Center 
+- They want to extend the Data Center capacity to AWS, but keep using the VMware Cloud software
+- Use cases 
+	- Migrate your VMware vSphere-based workloads to AWS 
+	- Run your production workloads across VMware vSphere-based private, public, and hybrid cloud environments 
+	- Have a disaster recover strategy
+- ![[Pasted image 20250320121120.png]]

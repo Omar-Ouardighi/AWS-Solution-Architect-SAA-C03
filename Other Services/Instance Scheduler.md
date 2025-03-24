@@ -1,0 +1,5 @@
+- AWS solution deployed through CloudFormation (not a service)
+- Automatically start/stop your AWS services to reduce costs (up to 70%)
+- Supports EC2 instances, EC2 Auto Scaling Groups, and RDS instances
+- Schedules are managed in a DynamoDB table
+- Supports cross -account and cross -region resources

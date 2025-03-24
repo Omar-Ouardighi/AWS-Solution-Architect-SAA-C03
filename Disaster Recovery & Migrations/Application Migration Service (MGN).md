@@ -1,0 +1,4 @@
+- Lift-and-shift (rehost) solution which simplify migrating applications to AWS 
+- Converts your physical, virtual, and cloud-based servers to run natively on AWS 
+- Supports wide range of platforms, Operating Systems, and databases 
+- Minimal downtime, reduced costs

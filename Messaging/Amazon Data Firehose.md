@@ -1,0 +1,11 @@
+- Load streaming data into S3 / Redshift / OpenSearch / 3rd party / custom HTTP
+- Fully managed 
+- Near real-time 
+	- Buffer interval: 0 seconds (no buffering) to 900 seconds 
+	- Buffer size: minimum 1MB
+- Automatic scaling 
+- No data storage 
+- Doesn’t support replay capability
+- Can send failed or all data to a backup S3 bucket
+- Supports custom data transformations using AWS Lambda
+-  Supports many data formats, conversions, transformations, compression

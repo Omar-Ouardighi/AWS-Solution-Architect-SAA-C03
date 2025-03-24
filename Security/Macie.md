@@ -1,0 +1,2 @@
+- a fully managed data security and data privacy service that uses machine learning and pattern matching to discover and protect your sensitive data in AWS.
+- helps identify and alert you to sensitive data, such as personally identifiable information (PII)![[Screenshot 2025-03-18 120258.png]]

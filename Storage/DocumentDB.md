@@ -1,0 +1,4 @@
+- DocumentDB is an AWS implementation of MongoDB (which is a NoSQL database)
+- Fully Managed, highly available with replication across 3 AZ
+- DocumentDB storage automatically grows in increments of 10GB
+- Automatically scales to workloads with millions of requests per seconds

@@ -1,0 +1,5 @@
+- Run any Apache Flink application on a managed cluster on AWS 
+- Provisioned compute resources, parallel computation, automatic scaling 
+- Application backups (implemented as checkpoints and snapshots) 
+- Use any Apache Flink programming features to transform data 
+- Important: Flink does not read from Amazon Data Firehose![[Screenshot 2025-03-11 164458.png]]

@@ -1,0 +1,4 @@
+- Fully managed ML-service to build apps with real-time personalized recommendations
+- Integrates into existing websites, applications, SMS, email marketing systems
+- • Use cases: retail stores, media and entertainment…
+- Example: personalized product recommendations/re-ranking, customized direct marketing

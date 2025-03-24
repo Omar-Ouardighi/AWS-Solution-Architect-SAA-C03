@@ -1,0 +1,7 @@
+- A fully-managed service for file transfers into and out of Amazon S3 or Amazon EFS using the FTP protocol
+- Supported Protocols 
+	- AWS Transfer for FTP (File Transfer Protocol (FTP)) 
+	- AWS Transfer for FTPS (File Transfer Protocol over SSL (FTPS)) 
+	- AWS Transfer for SFTP (Secure File Transfer Protocol (SFTP))
+- Managed infrastructure, Scalable, Reliable, Highly Available (multi-AZ)
+- Integrate with existing authentication systems (Microsoft Active Directory, LDAP, Okta, Amazon Cognito, custom)![[Screenshot 2025-03-07 160339.png]]

@@ -1,0 +1,7 @@
+- service to create interactive dashboards
+- Fast, automatically scalable, embeddable, with per-session pricing
+- In-memory computation using SPICE engine if data is imported into QuickSight
+- Enterprise edition: Possibility to setup Column-Level security (CLS)
+- A dashboard… • is a read-only snapshot of an analysis that you can share
+- You can share the analysis or the dashboard with Users or Groups
+- ![[Screenshot 2025-03-11 153813.png]]

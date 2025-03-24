@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compute/App2Container (A2C).md",
+                "file": "CheatSheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "App2Container (A2C)"
+              "title": "CheatSheet"
             }
           }
         ]
@@ -165,6 +165,11 @@
   },
   "active": "17bcb42012a5bbb0",
   "lastOpenFiles": [
+    "README.md",
+    "Ports.md",
+    "Exam Guide.md",
+    "AWS Global Infrastructure.md",
+    "Compute/App2Container (A2C).md",
     "images/Pasted image 20250321151243.png",
     "images/Pasted image 20250321151649.png",
     "images/Pasted image 20250321151354.png",
@@ -196,7 +201,6 @@
     "images/Screenshot 2025-03-19 170007.png",
     "images/Pasted image 20250320183222.png",
     "images/Pasted image 20250320144346.png",
-    "images/Screenshot 2025-03-19 170034.png",
     "Solution Architecture/High availibility.md",
     "Solution Architecture/High Performance Computing (HPC).md",
     "Solution Architecture/Event Driven.md",
@@ -204,10 +208,6 @@
     "Messaging/SNS.md",
     "Solution Architecture/Instantiating Applications quickly.md",
     "Disaster Recovery & Migrations/DMS.md",
-    "Disaster Recovery & Migrations/Application Migration Service (MGN).md",
-    "Disaster Recovery & Migrations/DR Overview.md",
-    "Disaster Recovery & Migrations/Application Discovery Service.md",
-    "Disaster Recovery & Migrations/On -Premise strategy with AWS.md",
     "Disaster Recovery & Migrations",
     "AWS Certified Solutions Architect Slides v43.pdf",
     "Network/VPC"
